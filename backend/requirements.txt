@@ -1,0 +1,4 @@
+pandas
+rdkit-pypi
+scikit-learn
+joblib
